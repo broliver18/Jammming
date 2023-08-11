@@ -6,6 +6,9 @@ is able to use the search bar to search for tracks by name, artist or album. The
 they want to add to the new playlist and the selected tracks will be shown in a queue in which they can also be removed.
 Once all the desired tracks are selected, the user can name the new playlist and save it to their Spotify account.
 
+## Links
+- Website: https://spotifyjam.netlify.app/
+
 ## Features
 - Tracks that were added to the queue cannot be added again (prevents duplicate tracks when creating new playlist)
 - Responsive - Works well with desktop, tablet, or mobile
